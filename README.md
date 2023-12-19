@@ -32,4 +32,4 @@ Este proyecto consiste en la implementación del clásico juego de la serpiente 
 
 ## Juega en línea
 
-Visita [este enlace](enlace-al-juego) para jugar al Snake Game en línea.
+Visita [este enlace](https://uruena2603.github.io/SnakeGame.github.io/) para jugar al Snake Game en línea.
